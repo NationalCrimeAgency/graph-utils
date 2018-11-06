@@ -23,7 +23,7 @@ The available tools are as follows:
 Running the above commands without any options will print out the available flags
 and input parameters. For example:
 
-    $ java -cp utils-1.1-SNAPSHOT-shaded.jar uk.gov.nca.graph.utils.ConvertGraph
+    $ java -cp utils-1.1-shaded.jar uk.gov.nca.graph.utils.ConvertGraph
     
     usage: uk.gov.nca.graph.utils.cli.ConvertGraph -f <arg> -g <arg> -i <arg>
            -o <arg>
