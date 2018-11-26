@@ -7,11 +7,11 @@
   <parent>
     <groupId>uk.gov.nca.graph</groupId>
     <artifactId>parent</artifactId>
-    <version>1.1</version>
+    <version>1.2-SNAPSHOT</version>
   </parent>
 
   <artifactId>utils</artifactId>
-  <version>1.1</version>
+  <version>1.2-SNAPSHOT</version>
   <name>Graph Utils</name>
   <description>Utilities for working with Tinkerpop graphs</description>
   <url>https://github.com/NationalCrimeAgency/graph-utils</url>
